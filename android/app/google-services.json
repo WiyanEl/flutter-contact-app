@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830418543361",
+    "project_id": "firestore-6067c",
+    "storage_bucket": "firestore-6067c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830418543361:android:54aff30d2a5ba55ebe7100",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830418543361-egu6hveighg2l7mjp9m3dl000ahd8n3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbAhZ90z_uX4aTBKNs3NgNWWElPKkPON8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830418543361-egu6hveighg2l7mjp9m3dl000ahd8n3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
